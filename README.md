@@ -11,6 +11,7 @@
 - Local Send
 - Notion (Cohesion)
 - Blender
+- Carpetas para nautilus (Developer y OneDrive)
 
 ## Como aplicar los iconos
 
