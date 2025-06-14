@@ -14,7 +14,7 @@
 
 ## Como aplicar los iconos
 
-1. Descargar Menu Libre desde [flathub](https://flathub.org/apps/details/com.github.libre.menu)
+1. Descargar Menu Principal desde [flathub](https://flathub.org/apps/page.codeberg.libre_menu_editor.LibreMenuEditor)
 2. Clonar el respositorio
 3. Abrir Menu Libre
 4. Buscar la aplicación a cambiar
