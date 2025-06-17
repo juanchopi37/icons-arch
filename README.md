@@ -1,6 +1,7 @@
 # Una serie de iconos para mejorar la experiencia de GNOME
 
 ![menulibre](./assets/image.png)
+![iconos](./assets/icons.png)
 
 ## Aplicaciones
 
